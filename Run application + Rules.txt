@@ -1,0 +1,29 @@
+Tutorial to run the application:
+
+## To run the application follow these steps ##
+install anaconda3.x from anaconda website
+add following system  environment variables
+- C:\Users\<name>\anaconda3
+- C:\Users\<name>\anaconda3\Scripts
+- C:\Users\<name>\anaconda3\Library\bin
+
+open cmd/powershell and execute following commands:
+- pip install pandas
+- pip install django
+- pip  install opencv-python
+- pip install tensorflow
+
+extact the zip containing the source code and open a cmd/powershell
+to the parent directory containing manage.py file.
+write following command in cmd/powershell to run the code.
+- python manage.py runserver
+# Now open your browser to 127.0.0.1:8000/signlang/
+The application is running
+
+
+Remember to put only your right hand in front of the camera, and have a clear background.
+
+RULES: Feel free to edit as much as your heart desires, but DO NOT SELL FOR COMMERCIAL REASONS. I do not want my code being using for profit reasons. Open source is the future!
+
+Cheers, and enjoy!
+- Sehar Saleemi 
